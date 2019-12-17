@@ -15,7 +15,8 @@ Note: version 2.0.1 of the R package `dosresmeta` is required. It can be downloa
     devtools::install_github("alecri/dosresmeta")
 
 This repository contains:
-- `one-stage.R`, an R script to reproduce the main findings.
+- `one-stage.R`, an R script to reproduce the main findings;
+- `coffee_mort_add.rda`, rda data used in the second practical example.
 
 ---
 
