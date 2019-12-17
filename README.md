@@ -1,6 +1,6 @@
 ###  One-stage dose-response meta-analysis for aggregated data
 
-**[Alessio Crippa](http://alecri.github.io)<sup>1</sup>, Andrea Discacciati, Matteo Bottai, Donna Spiegelman, Nicola Orsini.
+[Alessio Crippa](http://alecri.github.io)<sup>1</sup>, Andrea Discacciati, Matteo Bottai, Donna Spiegelman, Nicola Orsini.
 
 
 _<sup>1</sup>Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden_
